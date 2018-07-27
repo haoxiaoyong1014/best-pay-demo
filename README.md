@@ -30,3 +30,7 @@ src/main/java/com/github/lly835
 
 ### 视频教程
    http://v.youku.com/v_show/id_XMjg5MjM4ODIyNA==.html?spm=a2h3j.8428770.3416059.1 
+   
+   https://github.com/rainbowda/learnWay/tree/master/learnRedis/case-set
+
+http://doc.redisfans.com/
